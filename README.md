@@ -6,7 +6,10 @@ This repository contains all scripts used to analyze the AllerScan sequencing da
 
 # Installation Guide
 
+Installation of all library packages can take between 15 minutes to an hour to complete. All custom code does not require an installation and can be immediately run in native R after acquistion of the AllerScan data set.
 
 # Demo
 
 # Instructions for use
+
+All custom code enclosed requires the processed AllerScan sequencing data (which has been compressed into an Rdata object. 
